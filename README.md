@@ -7,4 +7,4 @@ and marketable skills. I hope that through the detailed nature of these reports,
 fields like application security, digital forensics and pen-testing.
 Thanks for stopping by!
 
-Jaron
+Jaron Khoury
